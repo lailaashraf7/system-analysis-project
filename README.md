@@ -1,15 +1,13 @@
 #E-Wallet Transaction Monitoring System
 
-Group:[Thursday Group]
+Group:[Group 2]
 
 Team members**:
 
-   1-Laila Ashraf Zaki El-baqery
+   -Laila Ashraf Zaki El-baqery
+   -Nada Mohamed Mamdouh
+   -Nada Hany Ezzat
+   -Raneem Yasser Hafiz
+   -Nour Ahmed Mahmoud Mohamed
    
-   2-Raneem Yasser Hafiz
    
-   3-Nour Ahmed Mahmoud Mohamed
-   
-   4-Nada Mohamed Mamdouh
-   
-   5-Nada Hany Ezzat
